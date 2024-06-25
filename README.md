@@ -1,2 +1,2 @@
 # sound_level_meter
-sound level meter using arduino uno
+This project aims to develop an affordable and efficient sound level meter using an Arduino microcontroller. The primary objective is to measure sound pressure levels in decibels (dB) and display the results on an LCD screen. The device uses a microphone sensor to capture ambient sound, which is then processed by the Arduino to calculate the corresponding decibel levels. The Arduino code is designed to convert the analog signals from the microphone into digital values and then compute the sound levels using a standard formula.
